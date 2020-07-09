@@ -1,0 +1,23 @@
+.green-bg-button{
+    background-color: green;
+    border-radius: 15px;
+    color: white;
+    border: none;
+    width: 100px;
+    height: 30px;
+}
+.bg-lightgreen{
+    background-color:  #F0FFF0;
+}
+.redline{
+    color: red;
+}
+.greenish{
+    color: seagreen;
+}
+.illustration img{
+    width: 100%;
+}
+.navbar img{
+    width: 20%;
+}
